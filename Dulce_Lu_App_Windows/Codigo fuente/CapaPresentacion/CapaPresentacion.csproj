@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>DulceLu</AssemblyName>
+    <ApplicationIcon>Marca.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj" />
+    <ProjectReference Include="..\CapaLogicaNegocio\CapaLogicaNegocio.csproj" />
+    <Reference Include="System.Configuration" />
+    <EmbeddedResource Include="Marca.ico" LogicalName="DulceLu.Marca.ico" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\bin\Debug\net48\CapaEntidad.dll
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\bin\Debug\net48\CapaEntidad.pdb
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.AssemblyInfo.cs
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.dll
+C:\Users\fabri\Downloads\Dulce_Lu_App_Windows\Codigo fuente\CapaEntidad\obj\Debug\net48\CapaEntidad.pdb

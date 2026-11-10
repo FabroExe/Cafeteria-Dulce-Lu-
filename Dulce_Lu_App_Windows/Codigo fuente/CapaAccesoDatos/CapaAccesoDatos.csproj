@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj" />
+    <Reference Include="System.Data" />
+    <EmbeddedResource Include="..\BaseDatos\01_CrearDulceLu.sql" LogicalName="DulceLu.CrearBase.sql" />
+  </ItemGroup>
+</Project>

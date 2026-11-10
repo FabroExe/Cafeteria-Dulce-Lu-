@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj" />
+    <ProjectReference Include="..\CapaAccesoDatos\CapaAccesoDatos.csproj" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+</Project>
